@@ -6,7 +6,17 @@ Basic idea of this application is to create a platform between kirana/retail sto
 This application has two faces, first is for kirana/retail store owner and second is for customers.
 
 # Kirana/Retail store owner goals:
-Here, owner can create an account and list down the products present in the store.
+
+We have two major goals to reach in this area. 
+First we will be having a SuperAdmin who can register the store with the application.
+SuperAdmin can add members to the store group and make them as admins or leave them as members.
+SuperAdmin and Admin can add the products to the store list and make price changes, add offers on the product.
+
+
+Second, we will have a members view page, who can see the list of orders from the customers to the store.
+They can assign the order to themselves and start working on it.
+As the work progress they check the products so that if two members working on order, they can see each others progress and don't duplicate the work. After order is ready, they can finish the task which sends notification to the customers that order is ready to pick up.
+
 
 # Customer goals:
 Can search for nearest stores in current location, pick the the products needed and order them.
