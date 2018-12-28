@@ -15,7 +15,7 @@ SuperAdmin and Admin can add the products to the store list and make price chang
 
 Second, we will have a members view page, who can see the list of orders from the customers to the store.
 They can assign the order to themselves and start working on it.
-As the work progress they check the products so that if two members working on order, they can see each others progress and don't duplicate the work. After order is ready, they can finish the task which sends notification to the customers that order is ready to pick up.
+As the work progresses, they check the products so that if two members working on same order, they can see each others progress and don't duplicate the work. After order is ready, they can finish the task which sends notification to the customers that order is ready to pick up/ready to deliver.
 
 
 # Customer goals:
